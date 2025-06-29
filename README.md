@@ -1,6 +1,7 @@
+
 # 🚨 Alert System for Enhanced Safety Using ML-Based Fatigue Monitoring
 
-**📅 Duration:** March 2025 – June 2025  
+**📅 Duration:** March 2025 – June 2025   
 **👩‍💻 Developed by:** Mareddy Akhila
 
 ---
@@ -42,3 +43,51 @@ This project focuses on building a **real-time fatigue detection system** to enh
 
 ## 📂 Project Structure (Planned)
 
+```
+
+FatigueAlertSystem/
+│
+├── src/                    # Core detection code
+│   ├── models/             # CNN/LSTM models
+│   ├── processing/         # Feature extraction logic
+│   ├── sensors/            # Data acquisition modules
+│
+├── static/                 # UI assets
+├── templates/              # Frontend templates (Flask or Streamlit)
+├── logs/                   # Detection logs
+├── app.py                  # Main application
+├── README.md               # Project documentation
+└── requirements.txt        # Python dependencies
+
+```
+
+---
+
+## 📈 Objectives
+
+- Detect fatigue **before critical thresholds**
+- Issue alerts to improve driver/operator response time
+- Run efficiently on **low-power edge devices**
+- Support **offline operation** and **IoT-based integrations**
+
+---
+
+## 🔄 Future Enhancements
+
+- Integrate facial landmark tracking using MediaPipe
+- Add support for mobile app notifications via IoT
+- Train models using larger real-world datasets
+- Apply federated learning for edge-based privacy
+
+---
+
+## 🙋‍♀️ Author
+
+**Mareddy Akhila**  
+[GitHub](https://github.com/MareddyAkhila)
+
+---
+
+## 📄 License
+
+This project will be licensed under the MIT License upon release.
