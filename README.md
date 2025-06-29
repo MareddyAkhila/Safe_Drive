@@ -1,7 +1,6 @@
 # 🚨 Alert System for Enhanced Safety Using ML-Based Fatigue Monitoring
 
 **📅 Duration:** March 2025 – June 2025  
-**🛠️ Status:** Currently in Development  
 **👩‍💻 Developed by:** Mareddy Akhila
 
 ---
